@@ -1,0 +1,8 @@
+connections:
+  - domain: a.host.com
+  - domain: b.host.com
+  - domain: c.host.com
+
+partial_container_names:
+  - my_container
+  - another_container_part
