@@ -1,6 +1,10 @@
 # Backup config files
 config.yaml
 
+# temporary files for notes and drafts
+*.tmp
+*.swp
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
